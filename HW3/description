@@ -1,0 +1,3 @@
+模拟Matlab的imresize()写一个你自己的imresize()函数，
+至少应实现‘nearest’和‘bilinear’两种方法。提交代码，
+实验结果和作业报告。
