@@ -1,0 +1,5 @@
+Description
+Continue your exploration with Matlab image processing toolbox.
+Use matlab functions to convert the attached image from .jpg to binary .ppm format.
+Write your own imread(‘*.ppm’) function code to read the newly generated .ppm file.
+Submit your code, result, and report.
