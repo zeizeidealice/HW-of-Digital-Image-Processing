@@ -1,0 +1,2 @@
+1. Convert the following image to a visually meaningful one by point processing. Submit your code and the result image.
+2. Realize your own Histogram equalization or matching algorithm. Submit your code and demo images. Compare your result with matlab function histeq().
