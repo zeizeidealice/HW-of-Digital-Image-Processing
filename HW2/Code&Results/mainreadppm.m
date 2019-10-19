@@ -1,0 +1,2 @@
+imreadppm('greens.ppm');
+
