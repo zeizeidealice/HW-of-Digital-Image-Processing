@@ -1,0 +1,3 @@
+Perform either of the following two tasks:
+1. Write a matlab function to perform hue-shift (eg. +60 degree, -150 degree, etc.) for a given image. See the attached images for an example. Submit your code, result, and report.
+2. Use point processing and color adjustment to stylize an image. Submit your code, result, and report. Best works will be rewarded.
